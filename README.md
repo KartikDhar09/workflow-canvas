@@ -47,7 +47,7 @@ npm run dev
 - [React](https://react.dev/) - UI framework
 - [Redux Toolkit](https://redux-toolkit.js.org/) - State management
 - [React Flow](https://reactflow.dev/) - Flow visualization
-- [Framer Motion](https://www.framer.com/motion/) - Animations
+- [Framer Motion](https://www.npmjs.com/package/framer-motion) - Animations
 - [Lucide React](https://lucide.dev/) - Icons
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
 - [Vite](https://vitejs.dev/) - Build tool
