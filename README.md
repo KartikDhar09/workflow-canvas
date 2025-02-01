@@ -1,8 +1,54 @@
-# React + Vite
+# Workflow Canvas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic, drag-and-drop workflow builder built with React, Redux, and React Flow. Create visual pipelines with customizable nodes for various operations.
 
-Currently, two official plugins are available:
+![Workflow Canvas Demo](https://workflow-canvas.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- 🎨 Intuitive drag-and-drop interface
+- 📊 Visual pipeline creation
+- 
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/workflow-canvas.git
+cd workflow-canvas
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+## Usage
+
+1. Access the workflow canvas through your browser
+2. Drag nodes from the toolbar onto the canvas
+3. Connect nodes by dragging from one node's handle to another
+4. Configure node properties through the node settings panel
+5. Preview and test your workflow
+
+## Built With
+
+- [React](https://reactjs.org/) - UI framework
+- [Redux Toolkit](https://redux-toolkit.js.org/) - State management
+- [React Flow](https://reactflow.dev/) - Flow visualization
+- [Framer Motion](https://www.framer.com/motion/) - Animations
+- [Lucide React](https://lucide.dev/) - Icons
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [Vite](https://vitejs.dev/) - Build tool
+
