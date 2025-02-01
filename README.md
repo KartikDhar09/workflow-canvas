@@ -2,7 +2,7 @@
 
 A dynamic, drag-and-drop workflow builder built with React, Redux, and React Flow. Create visual pipelines with customizable nodes for various operations.
 
-![Workflow Canvas Demo](https://workflow-canvas.vercel.app/)
+[Workflow Canvas Demo](https://workflow-canvas.vercel.app/)
 
 ## Features
 
@@ -20,7 +20,7 @@ A dynamic, drag-and-drop workflow builder built with React, Redux, and React Flo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/workflow-canvas.git
+git clone https://github.com/KartikDhar09/workflow-canvas.git
 cd workflow-canvas
 ```
 
@@ -44,7 +44,7 @@ npm run dev
 
 ## Built With
 
-- [React](https://reactjs.org/) - UI framework
+- [React](https://reactjs.dev/) - UI framework
 - [Redux Toolkit](https://redux-toolkit.js.org/) - State management
 - [React Flow](https://reactflow.dev/) - Flow visualization
 - [Framer Motion](https://www.framer.com/motion/) - Animations
