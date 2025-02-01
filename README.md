@@ -39,8 +39,7 @@ npm run dev
 1. Access the workflow canvas through your browser
 2. Drag nodes from the toolbar onto the canvas
 3. Connect nodes by dragging from one node's handle to another
-4. Configure node properties through the node settings panel
-5. Preview and test your workflow
+4. Preview and test your workflow
 
 ## Built With
 
