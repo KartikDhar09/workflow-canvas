@@ -8,7 +8,7 @@ A dynamic, drag-and-drop workflow builder built with React, Redux, and React Flo
 
 - 🎨 Intuitive drag-and-drop interface
 - 📊 Visual pipeline creation
-- 
+  
 ## Getting Started
 
 ### Prerequisites
@@ -44,7 +44,7 @@ npm run dev
 
 ## Built With
 
-- [React](https://reactjs.dev/) - UI framework
+- [React](https://react.dev/) - UI framework
 - [Redux Toolkit](https://redux-toolkit.js.org/) - State management
 - [React Flow](https://reactflow.dev/) - Flow visualization
 - [Framer Motion](https://www.framer.com/motion/) - Animations
